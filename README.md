@@ -41,3 +41,6 @@ move "%%a" "%%~dpa%%~xa\"
 
 4. Double Click on it, it will move all the files to their Extention Folders
 
+
+
+or Download "FilesOrganizer.bat" form this Repo and Paste it in the unorganized Folder and run it.
